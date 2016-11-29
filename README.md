@@ -4,7 +4,7 @@
 
 Course Description: Advanced topics in genetics focusing on genome-level features and methods of sequence analysis. The primary emphasis of the course will be on microbial genomic and metagenomic applications but many of the techniques will be applicable to eukaryotic genomics and medical genomics as well. Through this course students will become comfortable with the command line interface, learn basic programming skills, be exposed to a variety of online tools, and become proficient in a number of genomic software packages. 
 
-### command-line-basics: ### 
+### command-line-basics: ###
 * solutions to Bandit game from [OverTheWire] (http://overthewire.org/wargames/bandit/).
 * using basic linux commands to extract information from a file in BED format
 
